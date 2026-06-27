@@ -1,26 +1,28 @@
 {
-  "totalSolved": 3,
-  "currentStreak": 3,
-  "maxStreak": 3,
-  "lastSyncDate": "2026-06-26",
+  "totalSolved": 4,
+  "currentStreak": 4,
+  "maxStreak": 4,
+  "lastSyncDate": "2026-06-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Fruit_Into_Baskets": true,
-    "LeetCode_Longest_Substring_Without_Repeating_Characters": true
+    "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
   "activityHistory": {
     "2026-06-24": 1,
     "2026-06-25": 1,
-    "2026-06-26": 1
+    "2026-06-26": 1,
+    "2026-06-27": 1
   },
   "todayProblems": [
-    "Longest Substring Without Repeating Characters"
+    "Minimum Window Substring"
   ]
 }
