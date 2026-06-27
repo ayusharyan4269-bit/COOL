@@ -1,0 +1,65 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define endl '\n'
+
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    ll n;
+    cin>>n;
+
+    ll arr[n];
+
+    for (int i = 0; i < n; i++)
+    {
+      
+        cin>>arr[i];
+    }
+    
+int sierra = 0;
+int diemma = 0;
+
+int i = 0;
+int j = n - 1;
+int c=0;
+
+while (i <= j)
+{
+    if(c%2==0){
+
+    if(arr[j]>arr[i]){
+sierra  = sierra + arr[j];
+j--;
+c++;
+    }
+    else{
+        sierra  =sierra + arr[i];
+        i++;
+        c++;
+    }
+}
+
+else if (c%2!=0){
+
+ if(arr[j]>arr[i]){
+diemma  = diemma   + arr[j];
+j--;
+c++;
+    }
+    else{
+        diemma = diemma  + arr[i];
+        i++;
+        c++;
+    }
+
+}
+}
+
+cout<<sierra<<" "<<diemma;
+
+    return 0;
+}

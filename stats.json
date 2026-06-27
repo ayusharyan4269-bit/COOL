@@ -1,28 +1,30 @@
 {
-  "totalSolved": 4,
-  "currentStreak": 4,
-  "maxStreak": 4,
-  "lastSyncDate": "2026-06-27",
+  "totalSolved": 5,
+  "currentStreak": 5,
+  "maxStreak": 5,
+  "lastSyncDate": "2026-06-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
     "hard": 1,
-    "basic": 0
+    "basic": 1
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Fruit_Into_Baskets": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Minimum_Window_Substring": true
+    "LeetCode_Minimum_Window_Substring": true,
+    "Codeforces_381A_-_Sereja_and_Dima": true
   },
   "activityHistory": {
     "2026-06-24": 1,
     "2026-06-25": 1,
     "2026-06-26": 1,
-    "2026-06-27": 1
+    "2026-06-27": 1,
+    "2026-06-28": 1
   },
   "todayProblems": [
-    "Minimum Window Substring"
+    "381A - Sereja and Dima"
   ]
 }
