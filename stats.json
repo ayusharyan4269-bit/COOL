@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-06-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 3
   },
@@ -18,7 +18,8 @@
     "Codeforces_381A_-_Sereja_and_Dima": true,
     "Codeforces_1791C_-_Prepend_and_Append": true,
     "Codeforces_1873D_-_1D_Eraser": true,
-    "LeetCode_Maximum_Subarray": true
+    "LeetCode_Maximum_Subarray": true,
+    "LeetCode_Maximum_Product_Subarray": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -26,9 +27,10 @@
     "2026-06-26": 1,
     "2026-06-27": 1,
     "2026-06-28": 3,
-    "2026-06-29": 1
+    "2026-06-29": 2
   },
   "todayProblems": [
-    "Maximum Subarray"
+    "Maximum Subarray",
+    "Maximum Product Subarray"
   ]
 }

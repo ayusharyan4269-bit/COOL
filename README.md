@@ -8,3 +8,4 @@
 | 6 | [1791C - Prepend and Append](./Codeforces/basic/1791C%20-%20Prepend%20and%20Append) | [Codeforces](https://codeforces.com/problemset/problem/1791/C) | basic | 28 Jun 2026 | 12:48 am |
 | 7 | [1873D - 1D Eraser](./Codeforces/basic/1873D%20-%201D%20Eraser) | [Codeforces](https://codeforces.com/problemset/problem/1873/D) | basic | 28 Jun 2026 | 01:48 am |
 | 8 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 29 Jun 2026 | 10:59 pm |
+| 9 | [Maximum Product Subarray](./LeetCode/Medium/Maximum%20Product%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-product-subarray/) | Medium | 29 Jun 2026 | 11:21 pm |
