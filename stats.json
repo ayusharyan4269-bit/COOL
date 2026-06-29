@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
-  "currentStreak": 5,
-  "maxStreak": 5,
-  "lastSyncDate": "2026-06-28",
-  "todayCount": 3,
+  "totalSolved": 8,
+  "currentStreak": 6,
+  "maxStreak": 6,
+  "lastSyncDate": "2026-06-29",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 3,
+    "medium": 4,
     "hard": 1,
     "basic": 3
   },
@@ -17,18 +17,18 @@
     "LeetCode_Minimum_Window_Substring": true,
     "Codeforces_381A_-_Sereja_and_Dima": true,
     "Codeforces_1791C_-_Prepend_and_Append": true,
-    "Codeforces_1873D_-_1D_Eraser": true
+    "Codeforces_1873D_-_1D_Eraser": true,
+    "LeetCode_Maximum_Subarray": true
   },
   "activityHistory": {
     "2026-06-24": 1,
     "2026-06-25": 1,
     "2026-06-26": 1,
     "2026-06-27": 1,
-    "2026-06-28": 3
+    "2026-06-28": 3,
+    "2026-06-29": 1
   },
   "todayProblems": [
-    "381A - Sereja and Dima",
-    "1791C - Prepend and Append",
-    "1873D - 1D Eraser"
+    "Maximum Subarray"
   ]
 }
