@@ -12,3 +12,4 @@
 | 10 | [Maximum Absolute Sum of Any Subarray](./LeetCode/Medium/Maximum%20Absolute%20Sum%20of%20Any%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | Medium | 30 Jun 2026 | 11:52 pm |
 | 11 | [Maximum Subarray Sum with One Deletion](./LeetCode/Medium/Maximum%20Subarray%20Sum%20with%20One%20Deletion) | [LeetCode](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium | 01 Jul 2026 | 01:50 am |
 | 12 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 01 Jul 2026 | 03:26 am |
+| 13 | [A - Iskander and Drawings](./Codeforces/basic/A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/contest/2244/problem/A) | basic | 14 Jul 2026 | 08:19 pm |
