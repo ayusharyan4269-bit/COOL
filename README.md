@@ -13,3 +13,4 @@
 | 11 | [Maximum Subarray Sum with One Deletion](./LeetCode/Medium/Maximum%20Subarray%20Sum%20with%20One%20Deletion) | [LeetCode](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | Medium | 01 Jul 2026 | 01:50 am |
 | 12 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 01 Jul 2026 | 03:26 am |
 | 13 | [A - Iskander and Drawings](./Codeforces/basic/A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/contest/2244/problem/A) | basic | 14 Jul 2026 | 08:19 pm |
+| 14 | [B - Nikita and Books](./Codeforces/basic/B%20-%20Nikita%20and%20Books) | [Codeforces](https://codeforces.com/contest/2244/problem/B) | basic | 14 Jul 2026 | 08:41 pm |

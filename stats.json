@@ -1,14 +1,14 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 1,
   "maxStreak": 8,
   "lastSyncDate": "2026-07-14",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 8,
     "hard": 1,
-    "basic": 4
+    "basic": 5
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
@@ -23,7 +23,8 @@
     "LeetCode_Maximum_Absolute_Sum_of_Any_Subarray": true,
     "LeetCode_Maximum_Subarray_Sum_with_One_Deletion": true,
     "LeetCode_Number_of_Substrings_Containing_All_Three_Characters": true,
-    "Codeforces_A_-_Iskander_and_Drawings": true
+    "Codeforces_A_-_Iskander_and_Drawings": true,
+    "Codeforces_B_-_Nikita_and_Books": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -34,9 +35,10 @@
     "2026-06-29": 2,
     "2026-06-30": 1,
     "2026-07-01": 2,
-    "2026-07-14": 1
+    "2026-07-14": 2
   },
   "todayProblems": [
-    "A - Iskander and Drawings"
+    "A - Iskander and Drawings",
+    "B - Nikita and Books"
   ]
 }
