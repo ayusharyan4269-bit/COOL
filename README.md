@@ -14,3 +14,4 @@
 | 12 | [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) | [LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Medium | 01 Jul 2026 | 03:26 am |
 | 13 | [A - Iskander and Drawings](./Codeforces/basic/A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/contest/2244/problem/A) | basic | 14 Jul 2026 | 08:19 pm |
 | 14 | [B - Nikita and Books](./Codeforces/basic/B%20-%20Nikita%20and%20Books) | [Codeforces](https://codeforces.com/contest/2244/problem/B) | basic | 14 Jul 2026 | 08:41 pm |
+| 15 | [C - Stepan and Permutation](./Codeforces/basic/C%20-%20Stepan%20and%20Permutation) | [Codeforces](https://codeforces.com/contest/2244/problem/C) | basic | 14 Jul 2026 | 09:05 pm |
