@@ -16,3 +16,4 @@
 | 14 | [B - Nikita and Books](./Codeforces/basic/B%20-%20Nikita%20and%20Books) | [Codeforces](https://codeforces.com/contest/2244/problem/B) | basic | 14 Jul 2026 | 08:41 pm |
 | 15 | [C - Stepan and Permutation](./Codeforces/basic/C%20-%20Stepan%20and%20Permutation) | [Codeforces](https://codeforces.com/contest/2244/problem/C) | basic | 14 Jul 2026 | 09:05 pm |
 | 16 | [D - Yaroslav and Productivity](./Codeforces/basic/D%20-%20Yaroslav%20and%20Productivity) | [Codeforces](https://codeforces.com/contest/2244/problem/D) | basic | 14 Jul 2026 | 10:07 pm |
+| 17 | [2060C - Game of Mathletes](./Codeforces/basic/2060C%20-%20Game%20of%20Mathletes) | [Codeforces](https://codeforces.com/problemset/problem/2060/C) | basic | 25 Jul 2026 | 11:42 am |
