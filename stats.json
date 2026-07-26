@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
-  "currentStreak": 1,
+  "totalSolved": 19,
+  "currentStreak": 2,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-25",
-  "todayCount": 2,
+  "lastSyncDate": "2026-07-26",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 8,
     "hard": 1,
-    "basic": 9
+    "basic": 10
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
@@ -28,7 +28,8 @@
     "Codeforces_C_-_Stepan_and_Permutation": true,
     "Codeforces_D_-_Yaroslav_and_Productivity": true,
     "Codeforces_2060C_-_Game_of_Mathletes": true,
-    "Codeforces_1896B_-_AB_Flipping": true
+    "Codeforces_1896B_-_AB_Flipping": true,
+    "Codeforces_1840C_-_Ski_Resort": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -40,10 +41,10 @@
     "2026-06-30": 1,
     "2026-07-01": 2,
     "2026-07-14": 4,
-    "2026-07-25": 2
+    "2026-07-25": 2,
+    "2026-07-26": 1
   },
   "todayProblems": [
-    "2060C - Game of Mathletes",
-    "1896B - AB Flipping"
+    "1840C - Ski Resort"
   ]
 }
