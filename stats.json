@@ -1,14 +1,14 @@
 {
-  "totalSolved": 19,
-  "currentStreak": 2,
+  "totalSolved": 20,
+  "currentStreak": 3,
   "maxStreak": 8,
-  "lastSyncDate": "2026-07-26",
+  "lastSyncDate": "2026-07-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 8,
     "hard": 1,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
@@ -29,7 +29,8 @@
     "Codeforces_D_-_Yaroslav_and_Productivity": true,
     "Codeforces_2060C_-_Game_of_Mathletes": true,
     "Codeforces_1896B_-_AB_Flipping": true,
-    "Codeforces_1840C_-_Ski_Resort": true
+    "Codeforces_1840C_-_Ski_Resort": true,
+    "Codeforces_1A_-_Theatre_Square": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -42,9 +43,10 @@
     "2026-07-01": 2,
     "2026-07-14": 4,
     "2026-07-25": 2,
-    "2026-07-26": 1
+    "2026-07-26": 1,
+    "2026-07-27": 1
   },
   "todayProblems": [
-    "1840C - Ski Resort"
+    "1A - Theatre Square"
   ]
 }
