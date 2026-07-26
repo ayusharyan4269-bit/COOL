@@ -20,3 +20,4 @@
 | 18 | [1896B - AB Flipping](./Codeforces/basic/1896B%20-%20AB%20Flipping) | [Codeforces](https://codeforces.com/problemset/problem/1896/B) | basic | 25 Jul 2026 | 12:57 pm |
 | 19 | [1840C - Ski Resort](./Codeforces/basic/1840C%20-%20Ski%20Resort) | [Codeforces](https://codeforces.com/problemset/problem/1840/C) | basic | 26 Jul 2026 | 04:44 pm |
 | 20 | [1A - Theatre Square](./Codeforces/basic/1A%20-%20Theatre%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1/A) | basic | 27 Jul 2026 | 02:21 am |
+| 21 | [58A - Chat room](./Codeforces/basic/58A%20-%20Chat%20room) | [Codeforces](https://codeforces.com/problemset/problem/58/A) | basic | 27 Jul 2026 | 02:46 am |
