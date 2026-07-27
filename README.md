@@ -22,3 +22,4 @@
 | 20 | [1A - Theatre Square](./Codeforces/basic/1A%20-%20Theatre%20Square) | [Codeforces](https://codeforces.com/problemset/problem/1/A) | basic | 27 Jul 2026 | 02:21 am |
 | 21 | [58A - Chat room](./Codeforces/basic/58A%20-%20Chat%20room) | [Codeforces](https://codeforces.com/problemset/problem/58/A) | basic | 27 Jul 2026 | 02:46 am |
 | 22 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 27 Jul 2026 | 12:59 pm |
+| 23 | [230A - Dragons](./Codeforces/basic/230A%20-%20Dragons) | [Codeforces](https://codeforces.com/problemset/problem/230/A) | basic | 27 Jul 2026 | 01:21 pm |
