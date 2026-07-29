@@ -24,3 +24,4 @@
 | 22 | [479A - Expression](./Codeforces/basic/479A%20-%20Expression) | [Codeforces](https://codeforces.com/problemset/problem/479/A) | basic | 27 Jul 2026 | 12:59 pm |
 | 23 | [230A - Dragons](./Codeforces/basic/230A%20-%20Dragons) | [Codeforces](https://codeforces.com/problemset/problem/230/A) | basic | 27 Jul 2026 | 01:21 pm |
 | 24 | [1342A - Road To Zero](./Codeforces/basic/1342A%20-%20Road%20To%20Zero) | [Codeforces](https://codeforces.com/problemset/problem/1342/A) | basic | 29 Jul 2026 | 04:44 pm |
+| 25 | [1985C - Good Prefixes](./Codeforces/basic/1985C%20-%20Good%20Prefixes) | [Codeforces](https://codeforces.com/problemset/problem/1985/C) | basic | 29 Jul 2026 | 11:19 pm |
