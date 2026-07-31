@@ -27,3 +27,4 @@
 | 25 | [1985C - Good Prefixes](./Codeforces/basic/1985C%20-%20Good%20Prefixes) | [Codeforces](https://codeforces.com/problemset/problem/1985/C) | basic | 29 Jul 2026 | 11:19 pm |
 | 26 | [688B - Lovely Palindromes](./Codeforces/basic/688B%20-%20Lovely%20Palindromes) | [Codeforces](https://codeforces.com/problemset/problem/688/B) | basic | 30 Jul 2026 | 04:27 pm |
 | 27 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 31 Jul 2026 | 09:04 pm |
+| 28 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 31 Jul 2026 | 09:20 pm |
