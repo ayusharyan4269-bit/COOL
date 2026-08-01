@@ -28,3 +28,4 @@
 | 26 | [688B - Lovely Palindromes](./Codeforces/basic/688B%20-%20Lovely%20Palindromes) | [Codeforces](https://codeforces.com/problemset/problem/688/B) | basic | 30 Jul 2026 | 04:27 pm |
 | 27 | [4A - Watermelon](./Codeforces/basic/4A%20-%20Watermelon) | [Codeforces](https://codeforces.com/problemset/problem/4/A) | basic | 31 Jul 2026 | 09:04 pm |
 | 28 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 31 Jul 2026 | 09:20 pm |
+| 29 | [1859B - Olya and Game with Arrays](./Codeforces/basic/1859B%20-%20Olya%20and%20Game%20with%20Arrays) | [Codeforces](https://codeforces.com/problemset/problem/1859/B) | basic | 01 Aug 2026 | 04:38 pm |
