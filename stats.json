@@ -1,14 +1,14 @@
 {
-  "totalSolved": 29,
-  "currentStreak": 4,
+  "totalSolved": 30,
+  "currentStreak": 5,
   "maxStreak": 8,
-  "lastSyncDate": "2026-08-01",
+  "lastSyncDate": "2026-08-02",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 8,
     "hard": 1,
-    "basic": 20
+    "basic": 21
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
@@ -39,7 +39,8 @@
     "Codeforces_688B_-_Lovely_Palindromes": true,
     "Codeforces_4A_-_Watermelon": true,
     "Codeforces_282A_-_Bit": true,
-    "Codeforces_1859B_-_Olya_and_Game_with_Arrays": true
+    "Codeforces_1859B_-_Olya_and_Game_with_Arrays": true,
+    "Codeforces_1875A_-_Jellyfish_and_Undertale": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -57,9 +58,10 @@
     "2026-07-29": 2,
     "2026-07-30": 1,
     "2026-07-31": 2,
-    "2026-08-01": 1
+    "2026-08-01": 1,
+    "2026-08-02": 1
   },
   "todayProblems": [
-    "1859B - Olya and Game with Arrays"
+    "1875A - Jellyfish and Undertale"
   ]
 }
