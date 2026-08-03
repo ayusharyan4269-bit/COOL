@@ -30,3 +30,4 @@
 | 28 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 31 Jul 2026 | 09:20 pm |
 | 29 | [1859B - Olya and Game with Arrays](./Codeforces/basic/1859B%20-%20Olya%20and%20Game%20with%20Arrays) | [Codeforces](https://codeforces.com/problemset/problem/1859/B) | basic | 01 Aug 2026 | 04:38 pm |
 | 30 | [1875A - Jellyfish and Undertale](./Codeforces/basic/1875A%20-%20Jellyfish%20and%20Undertale) | [Codeforces](https://codeforces.com/problemset/problem/1875/A) | basic | 02 Aug 2026 | 11:31 pm |
+| 31 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 03 Aug 2026 | 11:39 pm |
