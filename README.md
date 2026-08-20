@@ -32,3 +32,4 @@
 | 30 | [1875A - Jellyfish and Undertale](./Codeforces/basic/1875A%20-%20Jellyfish%20and%20Undertale) | [Codeforces](https://codeforces.com/problemset/problem/1875/A) | basic | 02 Aug 2026 | 11:31 pm |
 | 31 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 03 Aug 2026 | 11:39 pm |
 | 32 | [2246A - farmpiggie and Subset Sum](./Codeforces/basic/2246A%20-%20farmpiggie%20and%20Subset%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2246/A) | basic | 08 Aug 2026 | 11:49 pm |
+| 33 | [1831B - Array merging](./Codeforces/basic/1831B%20-%20Array%20merging) | [Codeforces](https://codeforces.com/problemset/problem/1831/B) | basic | 20 Aug 2026 | 05:43 pm |
