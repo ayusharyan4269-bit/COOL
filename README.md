@@ -33,3 +33,4 @@
 | 31 | [71A - Way Too Long Words](./Codeforces/basic/71A%20-%20Way%20Too%20Long%20Words) | [Codeforces](https://codeforces.com/problemset/problem/71/A) | basic | 03 Aug 2026 | 11:39 pm |
 | 32 | [2246A - farmpiggie and Subset Sum](./Codeforces/basic/2246A%20-%20farmpiggie%20and%20Subset%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2246/A) | basic | 08 Aug 2026 | 11:49 pm |
 | 33 | [1831B - Array merging](./Codeforces/basic/1831B%20-%20Array%20merging) | [Codeforces](https://codeforces.com/problemset/problem/1831/B) | basic | 20 Aug 2026 | 05:43 pm |
+| 34 | [2148A - Sublime Sequence](./Codeforces/basic/2148A%20-%20Sublime%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2148/A) | basic | 26 Aug 2026 | 03:37 am |
