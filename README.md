@@ -35,3 +35,4 @@
 | 33 | [1831B - Array merging](./Codeforces/basic/1831B%20-%20Array%20merging) | [Codeforces](https://codeforces.com/problemset/problem/1831/B) | basic | 20 Aug 2026 | 05:43 pm |
 | 34 | [2148A - Sublime Sequence](./Codeforces/basic/2148A%20-%20Sublime%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2148/A) | basic | 26 Aug 2026 | 03:37 am |
 | 35 | [2184A - Social Experiment](./Codeforces/basic/2184A%20-%20Social%20Experiment) | [Codeforces](https://codeforces.com/problemset/problem/2184/A) | basic | 29 Aug 2026 | 05:04 am |
+| 36 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 29 Aug 2026 | 05:29 am |
