@@ -1,14 +1,14 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-08-26",
+  "lastSyncDate": "2026-08-29",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
     "medium": 8,
     "hard": 1,
-    "basic": 25
+    "basic": 26
   },
   "syncedProblems": {
     "LeetCode_Minimum_Size_Subarray_Sum": true,
@@ -44,7 +44,8 @@
     "Codeforces_71A_-_Way_Too_Long_Words": true,
     "Codeforces_2246A_-_farmpiggie_and_Subset_Sum": true,
     "Codeforces_1831B_-_Array_merging": true,
-    "Codeforces_2148A_-_Sublime_Sequence": true
+    "Codeforces_2148A_-_Sublime_Sequence": true,
+    "Codeforces_2184A_-_Social_Experiment": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -67,9 +68,10 @@
     "2026-08-03": 1,
     "2026-08-08": 1,
     "2026-08-20": 1,
-    "2026-08-26": 1
+    "2026-08-26": 1,
+    "2026-08-29": 1
   },
   "todayProblems": [
-    "2148A - Sublime Sequence"
+    "2184A - Social Experiment"
   ]
 }
