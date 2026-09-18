@@ -1,0 +1,31 @@
+#include <iostream>
+#include <algorithm>
+#include <cmath>
+
+using namespace std;
+
+void solve() {
+    long long w, d, h;
+    cin >> w >> d >> h;
+    long long a, b, f, g;
+    cin >> a >> b >> f >> g;
+
+    long long opt1 = abs(a - f) + b + g;
+    long long opt2 = abs(a - f) + (2 * d - b - g);
+    long long opt3 = abs(b - g) + a + f;
+    long long opt4 = abs(b - g) + (2 * w - a - f);
+
+    long long ans = h + min({opt1, opt2, opt3, opt4});
+    cout << ans << "\n";
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int t;
+    cin >> t;
+    while (t--) {
+        solve();
+    }
+    return 0;
+}
