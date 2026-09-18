@@ -37,3 +37,4 @@
 | 35 | [2184A - Social Experiment](./Codeforces/basic/2184A%20-%20Social%20Experiment) | [Codeforces](https://codeforces.com/problemset/problem/2184/A) | basic | 29 Aug 2026 | 05:04 am |
 | 36 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 29 Aug 2026 | 05:29 am |
 | 37 | [466A - Cheap Travel](./Codeforces/basic/466A%20-%20Cheap%20Travel) | [Codeforces](https://codeforces.com/problemset/problem/466/A) | basic | 07 Sept 2026 | 04:49 pm |
+| 38 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 19 Sept 2026 | 12:14 am |

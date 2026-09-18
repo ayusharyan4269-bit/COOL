@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 1,
   "maxStreak": 8,
-  "lastSyncDate": "2026-09-07",
+  "lastSyncDate": "2026-09-19",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 8,
+    "medium": 9,
     "hard": 1,
     "basic": 28
   },
@@ -47,7 +47,8 @@
     "Codeforces_2148A_-_Sublime_Sequence": true,
     "Codeforces_2184A_-_Social_Experiment": true,
     "Codeforces_236A_-_Boy_or_Girl": true,
-    "Codeforces_466A_-_Cheap_Travel": true
+    "Codeforces_466A_-_Cheap_Travel": true,
+    "LeetCode_Reverse_Integer": true
   },
   "activityHistory": {
     "2026-06-24": 1,
@@ -72,9 +73,10 @@
     "2026-08-20": 1,
     "2026-08-26": 1,
     "2026-08-29": 2,
-    "2026-09-07": 1
+    "2026-09-07": 1,
+    "2026-09-19": 1
   },
   "todayProblems": [
-    "466A - Cheap Travel"
+    "Reverse Integer"
   ]
 }
